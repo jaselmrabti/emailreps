@@ -3,7 +3,7 @@
 function sendRecurringEmailNC() {
 
   ////////// UPDATE THESE  ////////// 
-  var recipientEmails = "allen.buansi@ncleg.gov, graig.meyer@ncleg.gov, roy.cooper@nc.gov, corpinfo@sosnc.gov, jasmineelmrabti@gmail.com";
+  var recipientEmails = "allen.buansi@ncleg.gov, graig.meyer@ncleg.gov, roy.cooper@nc.gov, corpinfo@sosnc.gov";
   var name = "Your Name";
   var address = "Your Address";
   ////////// STOP HERE  ////////// 
