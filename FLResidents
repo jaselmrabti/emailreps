@@ -1,3 +1,5 @@
+// USE IF YOU ARE A FLORIDA RESIDENT
+
 function sendRecurringEmailFL() {
 
   ////////// UPDATE THESE  ////////// 
@@ -15,3 +17,6 @@ function sendRecurringEmailFL() {
   // Log the sent email in the Apps Script log
   Logger.log("Email sent to " + recipientEmails);
 }
+
+// FOR IMPLEMENTATION INSTRUCTIONS VISIT http://tinyurl.com/imperfect-hippie
+// ORIGINAL JAVA SCRIPT ADAPTED FROM user/imperfecthippie (Instagram)
