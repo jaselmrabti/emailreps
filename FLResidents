@@ -3,7 +3,7 @@
 function sendRecurringEmailFL() {
 
   ////////// UPDATE THESE  ////////// 
-  var recipientEmails = "wilton.simpson@fdacs.gov,jones.shevrin.web@flsenate.gov,Rick.scott@eog.myflorida.com, jasmineelmrabti@gmail.com";
+  var recipientEmails = "wilton.simpson@fdacs.gov,jones.shevrin.web@flsenate.gov,Rick.scott@eog.myflorida.com";
   var name = "Your Name";
   var address = "Your Address";
   ////////// STOP HERE  ////////// 
